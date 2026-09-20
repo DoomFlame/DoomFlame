@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a Sophomore at Carnegie Mellon University pursuing a degree in Computer Science, as well as a minor's in Game Design.<br>Most of my experience is in C# through Unity projects.<br>I’m currently learning the fundamentals of Python.<br>Ask me about CapyCo Studios!
+I am currently a Sophomore at Carnegie Mellon University pursuing a degree in Computer Science, as well as a minor's in Game Design.<br>Most of my experience is in C# through Unity projects, or in C from my coursework. <br>Ask me about CapyCo Studios!
 
 
 ## 🌐 Socials:
